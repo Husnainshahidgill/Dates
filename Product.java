@@ -1,6 +1,6 @@
 class Product{
     private String name;
-    private String type;
+    private String types;
     private double price;
     private int id;
     private Date mfc;
